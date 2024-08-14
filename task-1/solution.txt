@@ -8,7 +8,7 @@ touch bad.txt
 mv one.txt /home/osc/Downloads/
 5-cp one.txt copy.txt
 6- cd /home/osc/abdelrahman/
-7-nano cat two.txt 
+7-nano two.txt 
 abdelrahman
 8-nano three.txt
 1-hello OSC
@@ -21,6 +21,6 @@ abdelrahman
 8-hello OSC
 
 9-mv three.txt hello.txt
-10-rm foure.txt
+10-rm four.txt
 11-rm -r BAD
 
