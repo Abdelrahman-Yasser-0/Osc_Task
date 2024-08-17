@@ -1,0 +1,17 @@
+1- git config --global user.email abdelrahmany00@gmail.com
+2-git clone https://github.com/Abdelrahman-Yasser-0/Osc_Task
+3- cd Osc_Task 
+mkdir task-2
+4-cd task-2
+touch greeting.txt
+5- nano greeting.txt 
+hello world
+6- git add greeting.txt
+git commit greeting.txt
+Added greeting
+7-git branch intro 
+git switch intro
+8-nano greeting.txt
+Hello world
+I love Git
+9-
