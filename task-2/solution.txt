@@ -1,4 +1,5 @@
 1- git config --global user.email abdelrahmany006@gmail.com
+git config --global user.name Abbdelrahman-Yasser-0
 2-git clone https://github.com/Abdelrahman-Yasser-0/Osc_Task
 3- cd Osc_Task 
 mkdir task-2
