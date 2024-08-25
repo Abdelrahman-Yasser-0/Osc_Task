@@ -1,0 +1,2 @@
+1- cut -d "," -f 2 info.csv | sort | uniq > email.txt
+
